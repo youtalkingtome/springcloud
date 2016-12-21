@@ -12,7 +12,7 @@ import java.util.List;
  *
  * @author vikastaank
  */
-public class ThreadExample {
+public class ListIteration {
     
     public static void main(String args[])
     {
